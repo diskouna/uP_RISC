@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/proc_v1/proc_v1.srcs/sources_1/new/Constantes.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/ALU_8BITS/ALU_8BITS.srcs/sources_1/new/ALU_8BITS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU_8BITS'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/banc_de_registres/banc_de_registres.srcs/sources_1/new/banc_de_registres.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'banc_de_registres'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/banc_de_memoire/banc_de_memoire.srcs/sources_1/new/memoire_donnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memoire_donnee'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/banc_de_memoire/banc_de_memoire.srcs/sources_1/new/memoire_instructions.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memoire_instructions'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/proc_v1/proc_v1.srcs/sources_1/new/proc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'proc'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/proc_v1/proc_v1.srcs/sim_1/new/tb_proc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_proc'

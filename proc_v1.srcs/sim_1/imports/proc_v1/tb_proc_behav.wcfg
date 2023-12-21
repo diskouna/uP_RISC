@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_proc_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="proc_util" />
+            <top_module name="tb_proc" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1.222 ns"></ZoomEndTime>
+      <Cursor1Time time="0.100 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="164"></NameColumnWidth>
+      <ValueColumnWidth column_width="66"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject type="logic" fp_name="/tb_proc/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_proc/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/INSTR_PTR">
+      <obj_property name="ElementShortName">INSTR_PTR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">INSTR_PTR[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/BANC_REGISTRE_UNIT/registers">
+      <obj_property name="ElementShortName">registers[0:15][7:0]</obj_property>
+      <obj_property name="ObjectShortName">registers[0:15][7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/BUFFER_MEM_RE">
+      <obj_property name="ElementShortName">BUFFER_MEM_RE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_MEM_RE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/BUFFER_EX_MEM">
+      <obj_property name="ElementShortName">BUFFER_EX_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_EX_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/BUFFER_DI_EX">
+      <obj_property name="ElementShortName">BUFFER_DI_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_DI_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/BUFFER_LI_DI">
+      <obj_property name="ElementShortName">BUFFER_LI_DI[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BUFFER_LI_DI[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_proc/UUT/STALL">
+      <obj_property name="ElementShortName">STALL</obj_property>
+      <obj_property name="ObjectShortName">STALL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_proc/UUT/ALU_FLAGS">
+      <obj_property name="ElementShortName">ALU_FLAGS[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_FLAGS[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_proc/UUT/BRANCH_TAKEN">
+      <obj_property name="ElementShortName">BRANCH_TAKEN</obj_property>
+      <obj_property name="ObjectShortName">BRANCH_TAKEN</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_proc/UUT/BRANCH_FOUND">
+      <obj_property name="ElementShortName">BRANCH_FOUND</obj_property>
+      <obj_property name="ObjectShortName">BRANCH_FOUND</obj_property>
+   </wvobject>
+</wave_config>
