@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/gnanguessim/Bureau/VHDL_CIRCUIT_NUM/proc_v1/proc_v1.sim/sim_1/synth/func/xsim/tb_proc_func_synth.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module ALU_8BITS
-INFO: [VRFC 10-311] analyzing module afficheur_7Seg
-INFO: [VRFC 10-311] analyzing module banc_de_registres
-INFO: [VRFC 10-311] analyzing module memoire_instructions
-INFO: [VRFC 10-311] analyzing module proc
-INFO: [VRFC 10-311] analyzing module test_proc
-INFO: [VRFC 10-311] analyzing module glbl
